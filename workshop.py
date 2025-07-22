@@ -10,4 +10,4 @@ elif (distance <= 500):
 elif (distance >= 501):
     print("45 Baht")
 
-print("ambatufknut")0
+print("ambatufknut")
