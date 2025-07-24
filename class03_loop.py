@@ -19,20 +19,3 @@
     #print(number ,"*", i ,"=", i*number)
 
 #-------------------------------------- while loop
-
-Monster = 100
-w1 = 60
-w2 = 30
-w3 = 20
-gamestart = True
-print("---------------------- Link start -----------------")
-while gamestart:
-    print("[1] fight or not nigga")
-    print("[2] run away")
-    answer = input("answer the damm question : ")
-    if answer == 1:
-        print("เลือดมอน" , Monster)
-        print("[จะใช้อะไรตี?]")
-        print("[อาวุธที่1]" , w1)
-        print("[อาวุธที่2]" , w2)
-        print("[อาวุธที่3]" , w3)
